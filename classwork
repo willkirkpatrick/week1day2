@@ -1,0 +1,15 @@
+<!doctype HTML>
+    <html>
+        <head>
+            <title> LESS Test</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+        
+        <body>
+            <h1>Hello world</h1>
+            <p> I'm just a basic paragraph</p>
+        </body>
+    <div class="important-block">
+    </div>
+    
+    </>

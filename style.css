@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+}
+h2 {
+  color: green;
+}
+h3 {
+  color: #0e10b2;
+}
+p {
+  color: blue;
+}
+.important-block {
+  width: 200px;
+  height: 400px;
+  background-color: red;
+}
+.important-block p {
+  color: white;
+}
